@@ -1,8 +1,8 @@
 # helloworld
 
-AstrBot 插件模板
+AstrBot 插件
 
-A template plugin for AstrBot plugin feature
+一个ai驱动的表情搜集工具和ai选择发送
 
 # 支持
 
