@@ -1,0 +1,18 @@
+{
+    "auto_collect_enabled": {
+        "description": "是否开启自动搜集表情包功能",
+        "type": "bool",
+        "default": true
+    },
+    "collect_platforms": {
+        "description": "在哪些平台上自动搜集表情包 (all, aiocqhttp, gewechat等)",
+        "type": "string",
+        "default": "all"
+    },
+    "min_confidence": {
+        "description": "AI判断为表情包的最低置信度 (0-1)",
+        "type": "float",
+        "default": 0.8,
+        "hint": "多模态模型会给出一个判断，只有高于此置信度的才会被收录"
+    }
+}

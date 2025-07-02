@@ -1,0 +1,5 @@
+name: Sticker Collector
+author: YourName
+version: 1.0.0
+description: 一个AI驱动的表情包搜集与发送工具。自动搜集群聊图片，经由多模态LLM分析后存入表情库，并可通过LLM调用发送。
+repo_url: https://github.com/qa296/astrabot_plugin_sticker_collector
